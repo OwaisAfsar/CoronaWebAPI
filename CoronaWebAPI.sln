@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoronaWebAPI", "CoronaWebAPI\CoronaWebAPI.csproj", "{AC3B51C2-8299-46F0-B5E3-4090DAD335A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC3B51C2-8299-46F0-B5E3-4090DAD335A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC3B51C2-8299-46F0-B5E3-4090DAD335A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC3B51C2-8299-46F0-B5E3-4090DAD335A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC3B51C2-8299-46F0-B5E3-4090DAD335A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9BD8F8A-955A-4C3C-98FC-E2D64D8253F4}
+	EndGlobalSection
+EndGlobal
