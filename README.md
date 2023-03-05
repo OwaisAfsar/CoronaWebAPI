@@ -1,6 +1,6 @@
 # CoronaWebAPI
 
-The WEB API is providing data about the Covid patient. The #### CRUD #### operation is applied on this API. 
+The WEB API is providing data about the Covid patient. The CRUD operation is applied on this API. 
 
 Following are the variables:
 * Patient ID
@@ -9,7 +9,7 @@ Following are the variables:
 * State
 * Time Stamp
 
-The data is hard coded but the CRUD operations are performing #### add ####, #### update ####, #### delete ####, #### search #### via State and Time Stamp.
+The data is hard coded but the CRUD operations are performing Add, Update, Delete, Search via State and Time Stamp.
 
 Following are the URLs:
 * For retrieving all the patients: "/api/patients"
